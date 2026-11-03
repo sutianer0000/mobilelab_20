@@ -1,0 +1,7 @@
+.env
+.gradle
+.idea
+build
+local.properties
+*.docx
+.~lock*

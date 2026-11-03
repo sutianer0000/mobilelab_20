@@ -2,6 +2,10 @@
 
 Each folder is a separate Android project. In Android Studio, use **File > Open** on the lab folder, not on this outer folder.
 
+## lab4_mobile (Lab 04, list-based widgets)
+
+Open `lab4_mobile` in Android Studio and press Run. The first screen is a menu with Lessons 1 to 5.
+
 ## lab10_3 (Exchange Rate)
 
 1. Create a file named `.env` inside the `lab10_3` folder with this line:

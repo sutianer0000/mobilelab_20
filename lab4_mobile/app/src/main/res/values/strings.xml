@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab 04</string>
+    <string name="lesson1">Lesson 1</string>
+    <string name="lesson2">Lesson 2</string>
+    <string name="lesson3">Lesson 3</string>
+    <string name="lesson4">Lesson 4</string>
+    <string name="users">Users</string>
+    <string name="remove">Remove</string>
+    <string name="remove_all">Remove all</string>
+    <string name="remove_selected">Remove selected</string>
+    <string name="add_users">Add 5 more users</string>
+    <string name="remove_users">Remove last 5 users</string>
+    <string name="total_users">Total users: %1$d</string>
+    <string name="list_empty">List of users is empty</string>
+</resources>
