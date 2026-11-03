@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ExchangeRate"
+rootProject.name = "524K0012_Lab10_3"
 include(":app")
