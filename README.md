@@ -4,10 +4,12 @@ Each folder is a separate Android project. In Android Studio, use **File > Open*
 
 ## lab10_3 (Exchange Rate)
 
-The app needs a free API key from https://www.exchangerate-api.com/.
+1. Create a file named `.env` inside the `lab10_3` folder with this line:
 
-1. Copy `lab10_3/.env.example` to `lab10_3/.env`.
-2. Replace `your_key_here` with your key.
-3. Open `lab10_3` in Android Studio and press Run.
+   ```
+   Exchange_Rate_API_KEY=fea7876dd7ecc9aba80e9e1c
+   ```
 
-Without a key the app still builds, but it shows "Could not load rates".
+2. Open `lab10_3` in Android Studio and press Run.
+
+Without the `.env` file the app still builds, but it shows "Could not load rates".
