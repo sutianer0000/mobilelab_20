@@ -4,7 +4,7 @@ Each folder is a separate Android project. In Android Studio, use **File > Open*
 
 ## lab4_mobile (Lab 04, list-based widgets)
 
-Open `lab4_mobile` in Android Studio and press Run. The first screen is a menu with Lessons 1 to 5.
+Open `lab4_mobile` in Android Studio. Each lesson is its own module, `lesson1` to `lesson5`. Pick one in the run configuration dropdown and press Run.
 
 ## lab10_3 (Exchange Rate)
 

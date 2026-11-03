@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lesson 3</string>
+    <string name="remove_all">Remove all</string>
+    <string name="remove_selected">Remove selected</string>
+</resources>

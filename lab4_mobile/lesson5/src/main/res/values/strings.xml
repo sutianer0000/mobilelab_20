@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Users</string>
+    <string name="add_users">Add 5 more users</string>
+    <string name="remove_users">Remove last 5 users</string>
+    <string name="total_users">Total users: %1$d</string>
+    <string name="list_empty">List of users is empty</string>
+</resources>
