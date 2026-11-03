@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Exchange Rate</string>
+    <string name="base_currency">Base currency</string>
+    <string name="base_hint">e.g. VND</string>
+    <string name="target_currency">Target currency (optional)</string>
+    <string name="target_hint">e.g. THB</string>
+    <string name="unknown_currency">Unknown currency</string>
+    <string name="loading">Loading…</string>
+    <string name="last_updated">Last updated: %1$s</string>
+    <string name="load_error">Could not load rates. Tap to retry.</string>
+</resources>

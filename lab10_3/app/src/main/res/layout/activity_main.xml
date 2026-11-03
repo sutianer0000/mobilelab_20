@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/base_currency" />
+
+    <AutoCompleteTextView
+        android:id="@+id/inputBase"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:completionThreshold="1"
+        android:hint="@string/base_hint"
+        android:inputType="textCapCharacters"
+        android:maxLength="3"
+        android:selectAllOnFocus="true" />
+
+    <TextView
+        android:id="@+id/txtUpdated"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingVertical="12dp" />
+
+    <ListView
+        android:id="@+id/listRates"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="16dp"
+        android:text="@string/target_currency" />
+
+    <AutoCompleteTextView
+        android:id="@+id/inputTarget"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:completionThreshold="1"
+        android:hint="@string/target_hint"
+        android:inputType="textCapCharacters"
+        android:maxLength="3"
+        android:selectAllOnFocus="true" />
+
+    <TextView
+        android:id="@+id/txtTargetRate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:textAppearance="?android:attr/textAppearanceListItemSmall" />
+
+</LinearLayout>
