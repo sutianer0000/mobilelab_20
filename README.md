@@ -6,6 +6,12 @@ Each folder is a separate Android project. In Android Studio, use **File > Open*
 
 Open `lab4_mobile` in Android Studio. Each lesson is its own module, `lesson1` to `lesson5`. Pick one in the run configuration dropdown and press Run.
 
+## lab6_mobile (Lab 06, data storage)
+
+Open `lab6_mobile` in Android Studio. Each lesson is its own module, `lesson1` to `lesson4`. Pick one in the run configuration dropdown and press Run.
+
+`lesson4` needs Android 11 or newer. On first launch it opens the settings screen, so allow "All files access" and go back to the app.
+
 ## lab10_3 (Exchange Rate)
 
 1. Create a file named `.env` inside the `lab10_3` folder with this line:

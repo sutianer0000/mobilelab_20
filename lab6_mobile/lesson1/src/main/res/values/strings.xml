@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lesson 1</string>
+    <string name="text_color">Text Color</string>
+    <string name="background_color">Background Color</string>
+    <string name="save">Save</string>
+    <string name="saved">Saved</string>
+    <string name="invalid_color">Invalid color code</string>
+</resources>

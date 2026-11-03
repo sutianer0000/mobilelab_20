@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyFileExplorer</string>
+    <string name="back">Back</string>
+    <string name="add_folder">Add folder</string>
+    <string name="add_file">Add file</string>
+    <string name="delete_selected">Delete selected</string>
+    <string name="delete_all">Delete all</string>
+    <string name="create_folder">Create a folder</string>
+    <string name="create_file">Create a file</string>
+    <string name="folder_hint">Enter your folder name</string>
+    <string name="file_hint">Enter your file name</string>
+    <string name="content_hint">Enter your file content</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="confirm_delete">Are you sure to delete %1$d item(s)?</string>
+    <string name="nothing_to_delete">No items to delete</string>
+    <string name="delete_failed">Some items could not be deleted</string>
+    <string name="invalid_name">Invalid name</string>
+    <string name="already_exists">Name already exists</string>
+    <string name="create_failed">Could not create it</string>
+    <string name="permission_needed">Please allow all files access</string>
+</resources>

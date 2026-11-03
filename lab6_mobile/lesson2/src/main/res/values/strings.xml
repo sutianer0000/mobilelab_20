@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lesson 2</string>
+    <string name="content_hint">Content here</string>
+    <string name="read_internal">Read Internal</string>
+    <string name="read_external">Read External</string>
+    <string name="write_internal">Write Internal</string>
+    <string name="write_external">Write External</string>
+    <string name="written">Written to %1$s</string>
+    <string name="read_error">Could not read the file</string>
+    <string name="write_error">Could not write the file</string>
+</resources>
